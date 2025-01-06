@@ -12,6 +12,7 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 4. [Machine Learning Models](#Model-Performance)
 5. [Technologies Used](#Technologies-Used)
 6. [Results](#results)
+7. [Future Work](#Future-Work)
 
 
   ## Dataset
@@ -58,3 +59,17 @@ The Random Forest model achieved the highest AUC score of **0.89**, outperformin
 ### Key Visualizations
 ![Confusion Matrix](results/confusion_matrix.png)
 ![ROC Curve](results/roc_curve.png)
+
+
+## Future Work
+- Explore deep learning techniques for survival prediction.
+- Perform further feature engineering to create additional predictors.
+- Investigate the use of more advanced ensemble techniques.
+
+## References
+- [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- [scikit-learn Documentation](https://scikit-learn.org/)
+- [Exploratory Data Analysis Techniques](https://towardsdatascience.com/)
+
+
+Thanks a lot , if you want to share it with you contact me this is my portfolio : https://elghalmiyoussef.netlify.app/ 
