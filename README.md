@@ -10,8 +10,8 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 2. [Dataset](#dataset)
 3. [Project Features](#project-features)
 4. [Machine Learning Models](#machine-learning-models)
-5. [Results](#results)
-6. [Installation and Usage](#installation-and-usage)
+5. [Technologies Used](#Technologies-Used)
+6. [Results](#results)
 
 
   ## Dataset
@@ -31,6 +31,25 @@ The Titanic dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/yas
   - Support Vector Machine
 - Model evaluation using metrics like accuracy, ROC-AUC, and confusion matrices.
 - Advanced techniques: stacking models and hyperparameter tuning.
+
+## Model Performance
+| Model                     | Accuracy | ROC-AUC |
+|---------------------------|----------|---------|
+| Random Forest             | 0.81     | 0.89    |
+| Gradient Boosting         | 0.83     | 0.88    |
+| Support Vector Machine    | 0.66     | 0.81    |
+
+### Visualization
+Below is a bar chart illustrating the Accuracy and AUC of the models:
+
+![Model Performance Comparison](results/model_performance.png)
+
+
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**: pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Visualization Tools**: Matplotlib, Seaborn
+- **IDE**: Jupyter Notebook
 
 
 ## Results
