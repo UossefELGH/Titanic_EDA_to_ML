@@ -1,2 +1,6 @@
 # Titanic_EDA_to_ML
-"Titanic_EDA_to_ML: From Data Exploration to Predictive Modeling" This project transitions from exploratory data analysis to building machine learning models on the Titanic dataset. It demonstrates feature engineering, model comparison, and evaluation, providing a comprehensive approach to predictive analytics.
+
+
+This project analyzes the famous Titanic dataset to predict passenger survival using various machine learning algorithms. It includes data exploration, preprocessing, and model evaluation techniques.
+
+![Project Banner or Key Visualization](results/roc_curve.png)
