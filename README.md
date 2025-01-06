@@ -9,7 +9,7 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 1. [Overview](#overview)
 2. [Dataset](#dataset)
 3. [Project Features](#project-features)
-4. [Machine Learning Models](#machine-learning-models)
+4. [Machine Learning Models](#Model-Performance)
 5. [Technologies Used](#Technologies-Used)
 6. [Results](#results)
 
